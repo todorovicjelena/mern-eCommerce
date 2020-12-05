@@ -1,3 +1,3 @@
 # mern-eCommerce
 
-mern-eCommerce  🛒 🤸‍♀️ 👩‍💻
+mern-eCommerce  🛒 👩‍💻
